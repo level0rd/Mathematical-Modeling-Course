@@ -1,1 +1,1 @@
-# mathematical_modeling
+# Mathematical modeling course
